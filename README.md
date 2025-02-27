@@ -70,3 +70,7 @@ d. 1 11001100 10100011100000000000000
 estándar IEEE 754.
 a. -118. 546875
 b. 101. 533203125
+
+Referencias:
+ChatGPT. (2025, 18 de febrero). Conclusiones sobre el proyecto de carrito impulsado por energía potencial gravitatoria. OpenAI. https://chat.openai.com/
+How to convert an IEEE single precision floating point to a decimal value. (s. f.). Stack Overflow. https://stackoverflow.com/questions/33986312/how-to-convert-an-ieee-single-precision-floating-point-to-a-decimal-value
